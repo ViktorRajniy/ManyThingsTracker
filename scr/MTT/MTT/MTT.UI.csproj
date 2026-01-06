@@ -8,4 +8,11 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="MVVM\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Components\" />
+    <Folder Include="Windows\" />
+  </ItemGroup>
+
 </Project>

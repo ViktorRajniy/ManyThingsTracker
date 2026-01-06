@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace MTT.UI;
+namespace MTT.UI_VM;
 
 /// <summary>
 /// Interaction logic for App.xaml
